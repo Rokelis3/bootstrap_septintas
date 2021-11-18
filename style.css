@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    height: 100vh;
+}
+
+.zalia{
+    background-color: rgb(124, 192, 36);
+}
+
+.balta{
+    background-color: rgb(205, 216, 224);
+}
